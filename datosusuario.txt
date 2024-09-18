@@ -1,1 +1,2 @@
 “USUARIO=root”
+model name	: AMD Ryzen 5 2600 Six-Core Processor
