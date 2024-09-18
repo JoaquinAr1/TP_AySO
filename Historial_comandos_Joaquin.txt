@@ -1,0 +1,167 @@
+sudo apt-get install git
+yum install git
+ls -l
+ls -1
+ls
+exit
+su
+exit
+cp datosusuario.txt TP_AySO
+cd TP_AySO
+ls
+cat datosusuario.txt
+git config --global user.email“arlettaz.joaquin@gmail.com”
+git config --global user.email “arlettaz.joaquin@gmail.com”
+git config --global user.name “JoaquinAr1”
+git add .
+git commit -m “ADD:texto de usuario”
+git commit '\][
+
+
+ls
+es
+ls
+cd TP_AySO
+ls
+
+sdsad
+pwd
+pwd
+repogit
+ls -l
+pwd
+cd
+git status
+git init
+sudo
+-u
+-user
+clear
+clear
+clear
+622'\][
+ls
+es
+ls
+cd TP_AySO
+ls
+sdsad
+pwd
+repogit
+ls -l
+pwd
+cd
+git status
+git init
+sudo
+-u
+-user
+pwd
+-u
+ls
+ls -l
+pwd
+cd
+cd repogit/
+cd repogit/TP_AySO
+ls
+cp datosusuario.txt TP_AySO
+cd TP_AySO
+LS
+ls
+cat datosusuario.txt
+git commit -m “ADD:texto de usuario”
+git commit -m "ADD:texto  de usuario"
+git status
+git push
+echo “USUARIO=$(whoami)” > datosusuario.txt
+ls
+git config --list
+git add.
+git add .
+git commit -m “ADD:texto de usuario”
+git commit -m "ADD:texto  de usuario"
+git push
+git status
+grep
+tail -n1
+sudo
+sudo apt-get install git
+apt-get install git
+su
+clear
+cd
+pws
+pwd
+cd
+cd repogit
+ls
+man mkdir
+cd repogit
+mkdir repogit
+ls
+clear
+pwd
+mkdir repogit
+ls
+man mkdir
+cd repogit
+git clone https://github.com/JoaquinAr1/TP_AySO.git
+sudo
+ls -l
+whoaim
+whoim
+whoami
+echo “USUARIO=$(whoami)” > datosusuario.txt
+ls
+cp datosusuario.txt TP_AySO
+ls -l
+su
+su
+sudo
+ls -l
+-R
+ls
+ls -l
+pwd
+cd
+cd repogit/TP_AySO/
+/cpuinfo
+/proc/cpuinfo
+cat /proc/cpuinfo
+grep -i proce cpuinfo
+grep -i proce cpuino
+grep -i proce cpuinfo
+nproc
+cat /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n 1 >> ruta/al/archivo.txt
+grep "model name" /proc/cpuinfo | head -n 1 
+ls
+grep "model name" /proc/cpuinfo | head -n 1 >> datosusuario.txt 
+git status
+git add .
+git commit -m "feat: Añadiendo informacion de CPU"
+grep  /etc/passwd | -nv nologin
+grep
+grep  /etc/passwd
+cat /etc/passwd
+awk -F: '$7 != "/sbin/nologin" {print $1 ":" $7}' /etc/passwd | sort -t: -k2 | head -n 10 > lista_ordenada
+ls
+git status
+git add .
+git commit -m “ADD: Listado de usuarios ordenada”
+git commit -m "ADD: Listado de usuarios ordenada"
+echo "tcpdump" > comando_dump_net
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+cat <<EOF >> README.md
+Alumno: Joaquin Arlettaz
+División: 116
+Turno: Manana
+EOF
+
+cat README.md
+git add README.md
+git commit -m "agregar información de alumno"
+git log
+history -a
