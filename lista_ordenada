@@ -1,0 +1,10 @@
+liveuser:/bin/bash
+root:/bin/bash
+sync:/bin/sync
+halt:/sbin/halt
+shutdown:/sbin/shutdown
+adm:/usr/sbin/nologin
+bin:/usr/sbin/nologin
+daemon:/usr/sbin/nologin
+dbus:/usr/sbin/nologin
+dnsmasq:/usr/sbin/nologin
